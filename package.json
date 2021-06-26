@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/luismedinacoca/Cypress-AutomationTesting/issues"
     },
-    "homepage": "https://github.com/luismedinacoca/Cypress-AutomationTesting#readme"
+    "homepage": "https://github.com/luismedinacoca/Cypress-AutomationTesting#readme",
+    "devDependencies": {
+        "cypress": "^7.6.0"
+    }
 }
