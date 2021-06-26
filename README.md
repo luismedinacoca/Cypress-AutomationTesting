@@ -1,6 +1,10 @@
-Lecture 014 - NPM installation & Updates
-========================================
-delete node_module folder
-in terminal run:
-$ npm install
-node_modules folder installed again
+Lecture 015 - Openning Cypress for the first time:
+==================================================
+- in terminal, execute:
+  $ ./node_modules/.bin/cypress open
+- cypress folder is generated
+  cypress
+    |----- fixtures
+    |----- integration
+    |----- plugins
+    |----- support    
