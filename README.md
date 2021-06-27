@@ -1,8 +1,11 @@
-Lecture 023 - Cunstructing our first test using Mocha
-=====================================================
-- delete each folder inside integration folder
-- create a folder for webdriveruniversity
-- inside webdriveruniversity create a contact-us.js file
-- using mocha:
-  * describe("suite name", () => { it(); it()...})
-  * it("scenario name", () => { //cypress code...})
+Lecture 024 - Command Activation & Inspection Specific Cypress Commands
+=======================================================================
+- add before 'describe' command the following code:
+  * /// <reference types="Cypress" /> 
+- now we are able to enter the important command: cy
+- follow the instructions:
+  * add "cy.click"
+  * hover over the 'click' word
+  * press command and click on 'click' word
+  * more information related to click appears
+  * read and close it
