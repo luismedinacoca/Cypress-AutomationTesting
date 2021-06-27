@@ -1,7 +1,7 @@
 Lecture 024 - Command Activation & Inspection Specific Cypress Commands
 =======================================================================
 - add before 'describe' command the following code:
-  * /// <reference types="Cypress" /> 
+  * /// < reference types = "Cypress " // > 
 - now we are able to enter the important command: cy
 - follow the instructions:
   * add "cy.click"
