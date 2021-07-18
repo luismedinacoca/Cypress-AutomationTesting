@@ -1,18 +1,24 @@
 {
-    "name": "cypress-automation-testing",
-    "version": "1.0.0",
-    "description": "Cypress Automation Testing framework",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/luismedinacoca/Cypress-AutomationTesting.git"
-    },
-    "author": "Luis Medina Coca",
-    "license": "ISC",
-    "devDependencies": {
-        "cypress": "^7.6.0"
-    }
+  "name": "cypress-automation-testing",
+  "version": "1.0.0",
+  "description": "Cypress Automation Testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luismedinacoca/Cypress-AutomationTesting.git"
+  },
+  "author": "Luis Medina Coca",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.7.0",
+    "cypress-xpath": "^1.6.2"
+  },
+  "bugs": {
+    "url": "https://github.com/luismedinacoca/Cypress-AutomationTesting/issues"
+  },
+  "homepage": "https://github.com/luismedinacoca/Cypress-AutomationTesting#readme",
+  "dependencies": {}
 }
